@@ -1,4 +1,6 @@
 
+### This is not the original repo, took an open source project to change some view measurements.
+
 # Flashbar
 A highly customizable, powerful and easy-to-use alerting library for Android.
 
